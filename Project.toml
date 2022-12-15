@@ -1,0 +1,13 @@
+name = "Vdummy"
+uuid = "5d8546ee-55c2-4e5e-9ab4-267677f11cd3"
+authors = ["Zijiaa01~ <liu_zj0705@163.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
